@@ -491,9 +491,9 @@ Diff...
   ### 虎科大機械設計工程系
   
   &lt;small&gt;
-- Created by [40523209](https://s40523226.github.io/2016fallcp_hw/blog/)
+- Created by [40523226](https://s40523226.github.io/2016fallcp_hw/blog/)
 ?                           -                       ^^^^^ ^^^^^^^
-+ Created by [40523209](http://s40523226.github.io/kmolab/blog/)
++ Created by [40523226](http://s40523226.github.io/kmolab/blog/)
 ?                                                  ^^^^ ^
   &lt;/small&gt;
   
