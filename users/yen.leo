@@ -168,9 +168,10 @@
 <v t="leo.20161014142409.1"><vh>@edit 20161014.md</vh></v>
 <v t="leo.20161024160947.1"><vh>@edit 20161024.md</vh></v>
 <v t="leo.20161031142610.1"><vh>@edit 20161031.md</vh></v>
-<v t="leo.20161107164309.1"><vh>@edit 20161107.md</vh></v>
 <v t="leo.20161114144449.1"><vh>@edit 20161114.md</vh></v>
 <v t="leo.20161121144805.1"><vh>@edit 20161121.md</vh></v>
+<v t="leo.20161205150442.1"><vh>@edit 20161205.md</vh></v>
+<v t="leo.20161212141544.1"><vh>@edit 20161212.md</vh></v>
 </v>
 </v>
 </v>
@@ -491,15 +492,15 @@ Diff...
   ### 虎科大機械設計工程系
   
   &lt;small&gt;
-- Created by [40523226](https://s40523226.github.io/2016fallcp_hw/blog/)
+- Created by [40523209](https://s40523209.github.io/2016fallcp_hw/blog/)
 ?                           -                       ^^^^^ ^^^^^^^
-+ Created by [40523226](http://s40523226.github.io/kmolab/blog/)
++ Created by [40523209](http://s40523209.github.io/kmolab/blog/)
 ?                                                  ^^^^ ^
   &lt;/small&gt;
   
-- [40523226](blog/index.html)
+- [40523209](blog/index.html)
 ?                            -
-+ [40523226](blog/index.html)</t>
++ [40523209](blog/index.html)</t>
 <t tx="leo.20161107164237.4"># 2016Fall 計算機程式課程
 
 ### 虎科大機械設計工程系
@@ -1077,14 +1078,14 @@ import http.server, ssl
 def domake():
     # build directory
     os.chdir("./../")
-    server_address = ('localhost', 5443)
+    server_address = ('localhost', 6443)
     httpd = http.server.HTTPServer(server_address, http.server.SimpleHTTPRequestHandler)
     httpd.socket = ssl.wrap_socket(httpd.socket,
                                    server_side=True,
                                    certfile='localhost.crt',
                                    keyfile='localhost.key',
                                    ssl_version=ssl.PROTOCOL_TLSv1)
-    print("5443 https server started")
+    print("6443 https server started")
     httpd.serve_forever()
 
 # 利用執行緒執行 https 伺服器
