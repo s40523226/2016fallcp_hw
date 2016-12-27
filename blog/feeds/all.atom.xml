@@ -76,7 +76,7 @@ document["b1"].bind("click", b1)
 &lt;p&gt;button pelican-blog是主要進行轉檔用的&lt;/p&gt;
 &lt;p&gt;button https server這個是建立近端的,可以在近端檢視遠端的&lt;/p&gt;
 &lt;p&gt;如何複製或者搬動 leo 的節點?&lt;/p&gt;
-&lt;p&gt;在要複製的節點上按滑鼠右鍵,然後點選copynode,再到你要貼上的地方按滑鼠右鍵,然後點選pastenode,要移動節點的話可以使用crtl+u或是crtl+d&lt;/p&gt;</summary><category term="影片重點整理"></category></entry><entry><title>W14週練習</title><link href="./w14zhou-lian-xi.html" rel="alternate"></link><published>2016-12-12T12:00:00+08:00</published><updated>2016-12-12T12:00:00+08:00</updated><author><name>40523226</name></author><id>tag:,2016-12-12:./w14zhou-lian-xi.html</id><summary type="html">&lt;p&gt;以下為第十四週開始的城市練習,要利用 &lt;a href="http://mde.tw/2016fallcp/course/Python3Programs.txt"&gt;http://mde.tw/2016fallcp/course/Python3Programs.txt&lt;/a&gt; 要整理Brython 的用法.
+&lt;p&gt;在要複製的節點上按滑鼠右鍵,然後點選copynode,再到你要貼上的地方按滑鼠右鍵,然後點選pastenode,要移動節點的話可以使用crtl+u或是crtl+d&lt;/p&gt;</summary><category term="影片重點整理"></category></entry><entry><title>W14週練習</title><link href="./w14zhou-lian-xi.html" rel="alternate"></link><published>2016-12-12T12:00:00+08:00</published><updated>2016-12-12T12:00:00+08:00</updated><author><name>40523226</name></author><id>tag:,2016-12-12:./w14zhou-lian-xi.html</id><summary type="html">&lt;p&gt;以下為第十四週開始的程式練習,要利用 &lt;a href="http://mde.tw/2016fallcp/course/Python3Programs.txt"&gt;http://mde.tw/2016fallcp/course/Python3Programs.txt&lt;/a&gt; 要整理Brython 的用法.
 &lt;/p&gt;
 &lt;!-- 導入 Brython 標準程式庫 --&gt;
 
@@ -153,7 +153,7 @@ for i in range(int(mynum)):
     #container&lt;="W14練習-2"+html.BR()
     container&lt;=mystring+html.BR()
 &lt;/script&gt;
-&lt;/pre&gt;</summary><category term="每週練習"></category></entry><entry><title>W13</title><link href="./w13.html" rel="alternate"></link><published>2016-12-05T12:00:00+08:00</published><updated>2016-12-05T12:00:00+08:00</updated><author><name>40523226</name></author><id>tag:,2016-12-05:./w13.html</id><summary type="html">&lt;p&gt;Brython 繪圖&lt;/p&gt;
+&lt;/pre&gt;</summary><category term="每週練習"></category></entry><entry><title>W13-運算標定把位</title><link href="./w13-yun-suan-biao-ding-ba-wei.html" rel="alternate"></link><published>2016-12-05T12:00:00+08:00</published><updated>2016-12-05T12:00:00+08:00</updated><author><name>40523226</name></author><id>tag:,2016-12-05:./w13-yun-suan-biao-ding-ba-wei.html</id><summary type="html">&lt;p&gt;Brython 繪圖&lt;/p&gt;
 
 
 &lt;p&gt;畫線練習&lt;/p&gt;
@@ -501,7 +501,7 @@ h = 30
 background(100, 100, w, h, 5, 5, ctx)
 canvasText(100,  80, 20, "A", "b", "", "black", ctx)
 &lt;/script&gt;
-&lt;/pre&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>W11</title><link href="./w11.html" rel="alternate"></link><published>2016-11-21T12:00:00+08:00</published><updated>2016-11-21T12:00:00+08:00</updated><author><name>40523226</name></author><id>tag:,2016-11-21:./w11.html</id><summary type="html">&lt;p&gt;Brython 繪圖&lt;/p&gt;
+&lt;/pre&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>W11-迴圈練習</title><link href="./w11-hui-quan-lian-xi.html" rel="alternate"></link><published>2016-11-21T12:00:00+08:00</published><updated>2016-11-21T12:00:00+08:00</updated><author><name>40523226</name></author><id>tag:,2016-11-21:./w11-hui-quan-lian-xi.html</id><summary type="html">&lt;p&gt;Brython 繪圖&lt;/p&gt;
 
 
 &lt;p&gt;畫線練習&lt;/p&gt;
@@ -1723,7 +1723,7 @@ ctx.closePath()
 
 &lt;/script&gt;
 
-&lt;/pre&gt;</summary><category term="使用導引"></category></entry><entry><title>W10</title><link href="./w10.html" rel="alternate"></link><published>2016-11-14T12:00:00+08:00</published><updated>2016-11-14T12:00:00+08:00</updated><author><name>40523226</name></author><id>tag:,2016-11-14:./w10.html</id><summary type="html">&lt;p&gt;Brython 繪圖&lt;/p&gt;
+&lt;/pre&gt;</summary><category term="使用導引"></category></entry><entry><title>W10-畫線練習</title><link href="./w10-hua-xian-lian-xi.html" rel="alternate"></link><published>2016-11-14T12:00:00+08:00</published><updated>2016-11-14T12:00:00+08:00</updated><author><name>40523226</name></author><id>tag:,2016-11-14:./w10-hua-xian-lian-xi.html</id><summary type="html">&lt;p&gt;Brython 繪圖&lt;/p&gt;
 
 
 &lt;p&gt;畫線練習&lt;/p&gt;
@@ -2123,10 +2123,10 @@ ctx.closePath()
 
 
 
-&lt;/script&gt;</summary><category term="使用導引"></category></entry><entry><title>2016Fall 程式練習題-12345</title><link href="./2016fall-cheng-shi-lian-xi-ti-12345.html" rel="alternate"></link><published>2016-10-31T12:00:00+08:00</published><updated>2016-10-31T12:00:00+08:00</updated><author><name>40523226</name></author><id>tag:,2016-10-31:./2016fall-cheng-shi-lian-xi-ti-12345.html</id><summary type="html">&lt;p&gt;1234已知截至第六週 2016fallcpa 的分組資料位於倉儲中的 &lt;a href="./../w6_group.txt"&gt;w6_group.txt&lt;/a&gt;, 而從學校修課系統下載的修課人員名條則為 &lt;a href="./../w6_list.txt"&gt;w6_list.txt&lt;/a&gt;, 請各組著手練習, 找出尚未納入分組的人員名單, 並研擬如何處置上課一個半月卻尚未進入情況的學員?&lt;/p&gt;
+&lt;/script&gt;</summary><category term="使用導引"></category></entry><entry><title>2016Fall 程式練習題-未分組的人</title><link href="./2016fall-cheng-shi-lian-xi-ti-wei-fen-zu-de-ren.html" rel="alternate"></link><published>2016-10-31T12:00:00+08:00</published><updated>2016-10-31T12:00:00+08:00</updated><author><name>40523226</name></author><id>tag:,2016-10-31:./2016fall-cheng-shi-lian-xi-ti-wei-fen-zu-de-ren.html</id><summary type="html">&lt;p&gt;1234已知截至第六週 2016fallcpa 的分組資料位於倉儲中的 &lt;a href="./../w6_group.txt"&gt;w6_group.txt&lt;/a&gt;, 而從學校修課系統下載的修課人員名條則為 &lt;a href="./../w6_list.txt"&gt;w6_list.txt&lt;/a&gt;, 請各組著手練習, 找出尚未納入分組的人員名單, 並研擬如何處置上課一個半月卻尚未進入情況的學員?&lt;/p&gt;
 
 
-&lt;p&gt;找出尚未納入分組的人員名單, 並研擬如何處置上課一個半月卻尚未進入情況的學員?&lt;/p&gt;</summary><category term="使用導引"></category></entry><entry><title>2016Fall 程式練習題-1234</title><link href="./2016fall-cheng-shi-lian-xi-ti-1234.html" rel="alternate"></link><published>2016-10-24T12:00:00+08:00</published><updated>2016-10-24T12:00:00+08:00</updated><author><name>40523226</name></author><id>tag:,2016-10-24:./2016fall-cheng-shi-lian-xi-ti-1234.html</id><summary type="html">&lt;p&gt;1234已知截至第六週 2016fallcpa 的分組資料位於倉儲中的 &lt;a href="./../w6_group.txt"&gt;w6_group.txt&lt;/a&gt;, 而從學校修課系統下載的修課人員名條則為 &lt;a href="./../w6_list.txt"&gt;w6_list.txt&lt;/a&gt;, 請各組著手練習, 找出尚未納入分組的人員名單, 並研擬如何處置上課一個半月卻尚未進入情況的學員?&lt;/p&gt;
+&lt;p&gt;找出尚未納入分組的人員名單, 並研擬如何處置上課一個半月卻尚未進入情況的學員?&lt;/p&gt;</summary><category term="使用導引"></category></entry><entry><title>2016Fall 程式練習題-找出未納入分組的人</title><link href="./2016fall-cheng-shi-lian-xi-ti-zhao-chu-wei-na-ru-fen-zu-de-ren.html" rel="alternate"></link><published>2016-10-24T12:00:00+08:00</published><updated>2016-10-24T12:00:00+08:00</updated><author><name>40523226</name></author><id>tag:,2016-10-24:./2016fall-cheng-shi-lian-xi-ti-zhao-chu-wei-na-ru-fen-zu-de-ren.html</id><summary type="html">&lt;p&gt;1234已知截至第六週 2016fallcpa 的分組資料位於倉儲中的 &lt;a href="./../w6_group.txt"&gt;w6_group.txt&lt;/a&gt;, 而從學校修課系統下載的修課人員名條則為 &lt;a href="./../w6_list.txt"&gt;w6_list.txt&lt;/a&gt;, 請各組著手練習, 找出尚未納入分組的人員名單, 並研擬如何處置上課一個半月卻尚未進入情況的學員?&lt;/p&gt;
 
 
 &lt;p&gt;以下利用 Brython 讀取位於倉儲中的 &lt;a href="./../w6_list.txt"&gt;w6_list.txt&lt;/a&gt; 與 &lt;a href="./../w6_group.txt"&gt;w6_group.txt&lt;/a&gt; 資料檔案.&lt;/p&gt;
