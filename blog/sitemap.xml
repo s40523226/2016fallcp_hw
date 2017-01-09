@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./</loc>
-<lastmod>2017-01-09T14:00:08-00:00</lastmod>
+<lastmod>2017-01-09T14:04:08-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./archives.html</loc>
-<lastmod>2017-01-09T14:00:08-00:00</lastmod>
+<lastmod>2017-01-09T14:04:08-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tags.html</loc>
-<lastmod>2017-01-09T14:00:08-00:00</lastmod>
+<lastmod>2017-01-09T14:04:08-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./categories.html</loc>
-<lastmod>2017-01-09T14:00:08-00:00</lastmod>
+<lastmod>2017-01-09T14:04:08-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -39,7 +39,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>./qi-mo-kao.html</loc>
+<loc>./qi-mo-kao-zhou.html</loc>
 <lastmod>2017-01-09T12:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
@@ -158,15 +158,15 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>./tag/chuang-zao-li.html</loc>
+<loc>./tag/xie-tong-she-ji.html</loc>
 <lastmod>2016-11-28T12:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./tag/w16zhou-lian-xi.html</loc>
-<lastmod>2016-12-26T12:00:00+08:06</lastmod>
+<loc>./tag/shi-yong-dao-yin.html</loc>
+<lastmod>2016-12-05T12:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -179,15 +179,15 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>./tag/mei-zhou-lian-xi.html</loc>
-<lastmod>2016-12-12T12:00:00+08:06</lastmod>
+<loc>./tag/w16zhou-lian-xi.html</loc>
+<lastmod>2016-12-26T12:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./tag/xie-tong-she-ji.html</loc>
-<lastmod>2016-11-28T12:00:00+08:06</lastmod>
+<loc>./tag/mei-zhou-lian-xi.html</loc>
+<lastmod>2016-12-12T12:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -200,8 +200,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>./tag/shi-yong-dao-yin.html</loc>
-<lastmod>2016-12-05T12:00:00+08:06</lastmod>
+<loc>./tag/chuang-zao-li.html</loc>
+<lastmod>2016-11-28T12:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
